@@ -185,7 +185,7 @@ Lists products **without** media URL arrays (performance rule).
 }
 ```
 
-> ✅ No `image_urls` or `video_urls` arrays are returned — only counts and one thumbnail.
+>  No `image_urls` or `video_urls` arrays are returned — only counts and one thumbnail.
 
 #### GET /products/:id
 
