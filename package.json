@@ -1,0 +1,18 @@
+{
+  "name": "source-asia",
+  "version": "1.0.0",
+  "description": "Source Asia Backend Assignment — Rate Limiter + Product Catalog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "seed": "node seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  }
+}
